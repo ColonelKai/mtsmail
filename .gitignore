@@ -1,0 +1,7 @@
+# Secretive things!
+.env
+data/
+
+# Node modules
+node_modules/
+
