@@ -5,3 +5,5 @@ data/
 # Node modules
 node_modules/
 
+# Misc Things
+.eslintrc
